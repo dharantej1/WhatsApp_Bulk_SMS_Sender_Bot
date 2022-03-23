@@ -10,5 +10,5 @@ Step 3: Run the python script after saving both the text files and follow the st
 
 Step 4: Sit back and let the Python Script do the work for you!!!
 
-<<<Disclaimer>>>
+# Disclaimer
 This script is just for Educational purposes and is not intended for the usage in illegal activities like Spamming. Usage of this Script in any kind of such activities may lead to the commitment of Criminal Offence and is not the responsibility of the Script writer/Programmer.
